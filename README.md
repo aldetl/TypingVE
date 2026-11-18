@@ -122,4 +122,4 @@ InputSim is independently licensed under Apache 2.0 alone. Other dependencies re
 
 ## Links
 
-[Website](https://xdetail.org/typing) · [Downloads](https://github.com/aldetl/Typing/releases) · [User guide](docs/USER_GUIDE.md)
+[Website](https://xdetail.org/typing) · [Downloads](https://xdetail.org/typing/#download) · [User guide](docs/USER_GUIDE.md)
